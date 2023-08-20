@@ -37,7 +37,7 @@ const Signup = () => {
   };
 
   return (
-    <div className="login-container">
+    <div className="login-container" style={{width:"50%",marginTop:"180px",marginLeft:"320px"}}>
       <div className="login-box">
         <h2>Sign up</h2>
         <form onSubmit={handleSignup}>

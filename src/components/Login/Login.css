@@ -1,21 +1,11 @@
-/* LoginPage.css */
+LoginPage.css
 
-body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-color: black;
-  }
-  
   .login-container {
-    width: 100%;
+    width: 50%;
     max-width: 400px;
     text-align: center;
+    margin-top: 200px;
   }
-  
   .login-box {
     background-color: white;
     padding: 20px;
